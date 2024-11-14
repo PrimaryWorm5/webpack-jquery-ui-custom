@@ -16,7 +16,7 @@
   "dependencies": {
     "jquery": "^3.3.1",
     "jquery-ui": "^1.12.1",
-    "file-loader": "^1.1.11",
+    "file-loader": "^6.2.0",
     "css-loader": "^5.1.1",
     "style-loader": "^0.21.0"
   }
