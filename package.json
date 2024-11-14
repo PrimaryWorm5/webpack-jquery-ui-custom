@@ -1,0 +1,23 @@
+{
+  "name": "webpack-jquery-ui-custom",
+  "description": "Install jquery-ui and all necessary webpack loaders ready to use with new css-loader",
+  "license": "MIT",
+  "version": "2.0.2",
+  "author": {
+    "name": "PrimaryWorm5"
+  },
+  "keywords": [
+    "webpack",
+    "jquery",
+    "jquery-ui",
+    "loaders"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "jquery-ui": "^1.12.1",
+    "file-loader": "^1.1.11",
+    "css-loader": "^5.1.1",
+    "style-loader": "^0.21.0"
+  }
+}
